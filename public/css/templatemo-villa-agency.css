@@ -736,12 +736,15 @@ Banner Style
 --------------------------------------------- 
 */
 
-.main-banner {
-  background-color: green;
-  height: 80vh;
+.heading-styles-white{
+  font-family: 'Josefin Sans', sans-serif;
+  color: white;
+  font-weight: 600;
 }
 
-.main-banner .item-1 {
+.main-banner {
+  background: linear-gradient(108deg, rgba(0,0,0,0.6) 38%, rgba(0,0,0,0.2) 75%), url("../images/home-header.jpeg") center/cover no-repeat fixed;
+  height: 80vh;
 }
 
 .main-banner .item span.category {
@@ -758,16 +761,6 @@ Banner Style
 .main-banner .item span.category em {
   font-style: normal;
   color: #f35525;
-}
-
-.main-banner .item h2 {
-  font-size: 62px;
-  font-weight: 700;
-  text-transform: uppercase;
-  color: #fff;
-  line-height: 72px;
-  width: 50%;
-  margin-bottom: 0px;
 }
 
 .main-banner .owl-dots {

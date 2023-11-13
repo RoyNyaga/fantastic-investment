@@ -59,6 +59,13 @@ const HomePage = () => {
           </div>
         </div>
       </header>
+
+      <div className="main-banner align-items-center justify-content-center">
+        <div>
+          <h2>Fantastic Investment</h2>
+          <p>Some text information goes here</p>
+        </div>
+      </div>
     </div>
   )
 }

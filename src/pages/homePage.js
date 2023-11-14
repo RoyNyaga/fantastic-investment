@@ -96,20 +96,20 @@ const HomePage = () => {
               <div className="wrapper">
                 <div className="row">
                   <div className="col-lg-4">
-                    <div className="counter">
+                    <div className="countering">
                       <h2 className="timer count-title count-number">10</h2>
                       <p className="count-text ">Buildings<br />Finished Now</p>
                     </div>
                   </div>
                   <div className="col-lg-4">
-                    <div className="counter">
-                      <h2 className="timer count-title count-number">10</h2>
+                    <div className="countering">
+                      <h2 className="timer count-title count-number">5</h2>
                       <p className="count-text ">Years<br />Experience</p>
                     </div>
                   </div>
                   <div className="col-lg-4">
-                    <div className="counter">
-                      <h2 className="timer count-title count-number">10</h2>
+                    <div className="countering">
+                      <h2 className="timer count-title count-number">2</h2>
                       <p className="count-text ">Awwards<br />Won 2023</p>
                     </div>
                   </div>

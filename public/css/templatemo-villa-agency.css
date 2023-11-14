@@ -993,7 +993,7 @@ Fun Facts Style
   margin-top: 125px;
 }
 
-.fun-facts .counter {
+.fun-facts .countering {
   background-color: #ffeee9;
   position: relative;
   border-radius: 10px;
@@ -1002,13 +1002,13 @@ Fun Facts Style
   display: inline-block;
 }
 
-.fun-facts .counter h2,
-.fun-facts .counter p {
+.fun-facts .countering h2,
+.fun-facts .countering p {
   display: inline-flex;
   vertical-align: middle;
 }
 
-.fun-facts .counter p {
+.fun-facts .countering p {
   text-align: left;
   font-size: 16px;
   color: #1e1e1e;
@@ -1016,19 +1016,18 @@ Fun Facts Style
   line-height: 28px;
 }
 
-.fun-facts .counter h2 {
+.fun-facts .countering h2 {
   margin-right: 25px;
   font-size: 40px;
   color: #f35525;
 }
 
-.fun-facts .counter:after {
+.fun-facts .countering:after {
   position: absolute;
   width: 50px;
   height: 50px;
   background-color: #f35525;
   border-radius: 50%;
-  content: '';
   right: -25px;
   top: -25px;
 }
@@ -1740,7 +1739,7 @@ body {
   .featured .info-table {
     margin-top: 45px;
   }
-  .fun-facts .counter {
+  .fun-facts .countering {
     margin-bottom: 45px;
   }
   .best-deal .section-heading {

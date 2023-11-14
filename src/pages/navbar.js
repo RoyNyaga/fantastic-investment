@@ -9,7 +9,7 @@ const NavBar = () => {
           <div className="col-12">
             <nav className="main-nav">
               <a href="index.html" className="logo">
-                <h1>Villa</h1>
+                <h1>Fantastic</h1>
               </a>
               <ul className="nav">
                 <li><a href="index.html" className="active">Home</a></li>

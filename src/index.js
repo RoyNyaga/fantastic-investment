@@ -8,6 +8,8 @@ import {
   RouterProvider,
 } from "react-router-dom";
 import HomePage from './pages/homePage';
+import NavBar from './pages/navbar';
+import Preloader from './pages/preloader';
 
 const router = createBrowserRouter([
   {
@@ -19,6 +21,8 @@ const router = createBrowserRouter([
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
+    <Preloader />
+    <NavBar />
     <RouterProvider router={router} />
   </React.StrictMode>
 );

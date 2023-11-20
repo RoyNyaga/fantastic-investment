@@ -10,7 +10,7 @@ const NavBar = () => {
           <div className="col-12">
             <nav className="main-nav">
               <a href="index.html" className="logo">
-                <img src="../../images/logo.jpeg" style={{ width: "50%" }} alt="missing-image"/>
+                <img src="../../images/logo.jpeg" style={{ width: "50%" }} alt="missing"/>
               </a>
               <ul className="nav">
                 <li><Link className="active" to={"/"}>Home</Link></li>
@@ -18,7 +18,7 @@ const NavBar = () => {
                 <li><Link to={"/about"}>About</Link></li>
                 <li><Link to={"/about"}>Contact</Link></li>
               </ul>
-              <a className='menu-trigger'>
+              <a className='menu-trigger' href="/">
                 <span>Menu</span>
               </a>
             </nav>

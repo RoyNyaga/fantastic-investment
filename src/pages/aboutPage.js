@@ -24,14 +24,19 @@ const AboutPage = () => {
           <div className="row">
             <div className="col-lg-8">
               <div className="main-image">
-                <img src="../../images/02.jpeg" alt="" />
+                <img src="../../images/02.jpeg" alt="missing" />
               </div>
               <div className="main-content">
                 <span className="category">Brief History</span>
                 <h4>Fantastic Investment</h4>
-                <p>Get <strong>the best villa agency</strong> HTML CSS Bootstrap Template for your company website. TemplateMo provides you the <a href="https://www.google.com/search?q=best+free+css+templates" target="_blank">best free CSS templates</a> in the world. Please tell your friends about it. Thank you. Cloud bread kogi bitters pitchfork shoreditch tumblr yr succulents single-origin coffee schlitz enamel pin you probably haven't heard of them ugh hella.
-
-                  <br /><br />When you look for free CSS templates, you can simply type TemplateMo in any search engine website. In addition, you can type TemplateMo Digital Marketing, TemplateMo Corporate Layouts, etc. Master cleanse +1 intelligentsia swag post-ironic, slow-carb chambray knausgaard PBR&B DSA poutine neutra cardigan hoodie pop-up.</p>
+                <p>Get <strong>the best villa agency</strong> HTML CSS Bootstrap Template for your company website. 
+                TemplateMo provides you the best free CSS templates in the world. Please tell your friends about it. 
+                Thank you. Cloud bread kogi bitters pitchfork shoreditch tumblr yr succulents single-origin coffee 
+                schlitz enamel pin you probably haven't heard of them ugh hella.
+                  <br /><br />When you look for free CSS templates, you can simply type TemplateMo in any search engine 
+                  website. In addition, you can type TemplateMo Digital Marketing, TemplateMo Corporate Layouts, etc.
+                   Master cleanse +1 intelligentsia swag post-ironic, slow-carb chambray knausgaard PBR&B DSA poutine
+                    neutra cardigan hoodie pop-up.</p>
               </div>
               <div className="accordion" id="accordionExample">
                 <div className="accordion-item">
@@ -76,19 +81,19 @@ const AboutPage = () => {
               <div className="info-table">
                 <ul>
                   <li>
-                    <img src="../../images/roy.jpeg" alt="" style={{ maxWidth: "52px" }} />
+                    <img src="../../images/roy.jpeg" alt="missing" style={{ maxWidth: "52px" }} />
                     <h4>Mr Achile<br /><span>671172775</span></h4>
                   </li>
                   <li>
-                    <img src="../../images/roy.jpeg" alt="" style={{ maxWidth: "52px" }} />
+                    <img src="../../images/roy.jpeg" alt="missing" style={{ maxWidth: "52px" }} />
                     <h4>Fabregal<br /><span>671172775</span></h4>
                   </li>
                   <li>
-                    <img src="../../images/roy.jpeg" alt="" style={{ maxWidth: "52px" }} />
+                    <img src="../../images/roy.jpeg" alt="missing" style={{ maxWidth: "52px" }} />
                     <h4>Roy<br /><span>671172775</span></h4>
                   </li>
                   <li>
-                    <img src="../../images/roy.jpeg" alt="" style={{ maxWidth: "52px" }} />
+                    <img src="../../images/roy.jpeg" alt="missing" style={{ maxWidth: "52px" }} />
                     <h4>Other<br /><span>number</span></h4>
                   </li>
                 </ul>

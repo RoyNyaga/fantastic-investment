@@ -19,7 +19,7 @@ const HomePage = () => {
           <div className="row">
             <div className="col-lg-6">
               <div className="left-image">
-                <img src="../../images/trainning.jpeg" alt="missing-image" />
+                <img src="../../images/trainning.jpeg" alt="missing" />
                 <a href="property-details.html"><img src="images/featured-icon.png" alt="" style={{ maxWidth: "60px", padding: "0px" }} /></a>
               </div>
             </div>
@@ -36,7 +36,9 @@ const HomePage = () => {
                   </h2>
                   <div id="collapseOne" className="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
                     <div className="accordion-body">
-                      Get <strong>the best villa</strong> website template in HTML CSS and Bootstrap for your business. TemplateMo provides you the <a href="https://www.google.com/search?q=best+free+css+templates" target="_blank">best free CSS templates</a> in the world. Please tell your friends about it.</div>
+                      Getthe best villa website template in HTML CSS and Bootstrap for your 
+                      business. TemplateMo provides you the
+                      best free CSS templates in the world. Please tell your friends about it.</div>
                   </div>
                 </div>
                 <div className="accordion-item">
